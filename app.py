@@ -428,7 +428,7 @@ class DrowsinessEngine:
                 status = (
                     "Mengantuk (Mata Terpejam + Menguap) Diharapkan pengguna berhenti sejenak"
                     if yawning
-                    else "Mengantuk (Mata Terpejam)"
+                    else "Mengantuk (Mata Terpejam) Diharapkan pengguna berhenti sejenak"
                 )
             elif yawning:
                 status = "Waspada (Menguap)"
