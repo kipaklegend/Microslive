@@ -73,8 +73,8 @@ ALARM_FILE = "alarm.wav"
 
 # Isi melalui environment variable.
 # Jangan menuliskan token bot rahasia di dalam kode.
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8872341923:AAGM9NRTY2evsZYsXZMHigXlk2OnvS-NOmA")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "6651250912")
 
 MQTT_ENABLED = True
 MQTT_BROKER = "broker.emqx.io"
