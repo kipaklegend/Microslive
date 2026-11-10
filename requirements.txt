@@ -2,9 +2,8 @@ streamlit>=1.35
 streamlit-webrtc>=0.47
 streamlit-autorefresh
 av
+numpy<2
+mediapipe==0.10.14
 opencv-python-headless
-mediapipe
-numpy
 requests
 paho-mqtt<2
-playsound==1.2.2
